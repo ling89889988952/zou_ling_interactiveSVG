@@ -11,7 +11,7 @@ This project use the node.js and Sass.
 2.Insatll SASS - Macs have it installed by default. - Windows machine ->https://sass-lang.com/
 
 # Installation:
-1.Clone the repo git clone https://github.com/ling89889988952/FavouriteThings.git
+1.Clone the repo git clone https://github.com/ling89889988952/zou_ling_interactiveSVG.git
 
 2.Install application generator tool, npm install command: - install npm : $ npm install - express package : $ npm install express --save - mysql package : $ npm install mysql - hbs package : $ npm install hbs
 
