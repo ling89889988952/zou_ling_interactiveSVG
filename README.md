@@ -46,7 +46,7 @@ Built With:
 web design & web development: Ling Zou;
 
 # Credits:
-The FavouriteThings was created by Ling Zou by December 2019.
+The zou_ling_interactiveSVG was created by Ling Zou by December 2019.
 
 # Reference:
 1.expresswithgsandwp by Trevor Van Rys. URL: "https://github.com/Trevor-FanshaweC/expresssWGSnWP"
